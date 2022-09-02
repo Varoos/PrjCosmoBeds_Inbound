@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PrjCosmoBeds_Inbound.FocusService" CodeBehind="FocusService.svc.cs" %>
